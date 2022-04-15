@@ -1,0 +1,118 @@
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\manta\Desktop\VS Code\University\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\Mantas\Desktop\Turing Machine\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\All programs\Visual Studio Code\Turing_Machine_C\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+F:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+F:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+F:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+F:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+F:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+F:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+F:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+D:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+D:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+D:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+D:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+D:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+D:\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+D:\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csprojAssemblyReference.cache
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\OneDrive\Desktop\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.exe
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.deps.json
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.json
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.runtimeconfig.dev.json
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\bin\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.AssemblyReference.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfoInputs.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.AssemblyInfo.cs
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.csproj.CoreCompileInputs.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.dll
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.pdb
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Turing Machine C#\obj\Debug\netcoreapp3.1\Turing Machine C#.genruntimeconfig.cache
